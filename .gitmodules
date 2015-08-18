@@ -1,0 +1,42 @@
+[submodule "webtools-bmo-bugzilla"]
+	path = webtools-bmo-bugzilla
+	url = http://github.com/mozilla/webtools-bmo-bugzilla.git
+[submodule "kuma"]
+	path = kuma
+	url = https://github.com/mozilla/kuma.git
+[submodule "gecko-dev"]
+	path = gecko-dev
+	url = https://github.com/mozilla/gecko-dev.git
+[submodule "bedrock"]
+	path = bedrock
+	url = https://github.com/mozilla/bedrock.git
+[submodule "kitsune"]
+	path = kitsune
+	url = https://github.com/mozilla/kitsune.git
+[submodule "zamboni"]
+	path = zamboni
+	url = https://github.com/mozilla/zamboni.git
+[submodule "dxr"]
+	path = dxr
+	url = https://github.com/mozilla/dxr.git
+[submodule "build-tools"]
+	path = build-tools
+	url = https://github.com/mozilla/build-tools.git
+[submodule "ichnaea"]
+	path = ichnaea
+	url = https://github.com/mozilla/ichnaea.git
+[submodule "telemetry-tools"]
+	path = telemetry-tools
+	url = https://github.com/mozilla/telemetry-tools.git
+[submodule "amo-validator"]
+	path = amo-validator
+	url = https://github.com/mozilla/amo-validator.git
+[submodule "pdf.js"]
+	path = pdf.js
+	url = https://github.com/mozilla/pdf.js.git
+[submodule "build-mozharness"]
+	path = build-mozharness
+	url = https://github.com/mozilla/build-mozharness.git
+[submodule "build-buildbotcustom"]
+	path = build-buildbotcustom
+	url = https://github.com/mozilla/build-buildbotcustom.git
