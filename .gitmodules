@@ -40,3 +40,12 @@
 [submodule "build-buildbotcustom"]
 	path = build-buildbotcustom
 	url = https://github.com/mozilla/build-buildbotcustom.git
+[submodule "B2G"]
+	path = B2G
+	url = https://github.com/mozilla-b2g/B2G.git
+[submodule "gaia"]
+	path = gaia
+	url = https://github.com/mozilla-b2g/gaia.git
+[submodule "firefox-ios"]
+	path = firefox-ios
+	url = https://github.com/mozilla/firefox-ios.git
